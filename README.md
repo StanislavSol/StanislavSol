@@ -1,22 +1,17 @@
-Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Станислав Соловцов ============ =============================================== =============================================== ========================= Python-разработчик ---------------- Я изучаю Python уже более двух лет. В конце февраля 2023 года начал обучение в школе программирования Hexlet. Целью обучения было структурирование ранее полученных знаний, приобретение новых и определение дальнейшего пути развития. На данный момент завершено два учебных проекта. Планирую развиваться в IT-сфере, участвовать в новых проектах, быть ценным членом команды и стать наставником в будущем * 🌍 Я живу в Краснодаре * ✉️ Связаться со мной можно по адресу [vandemar@bk.ru] (почта:
+Hi 👋 My name is Stanislav Solovcov
+===================================
 
-### Навыки
+Python - developer
+------------------
+
+I'm looking for a job or internship for a Python developer position with a remote work format. I plan to develop in the IT field, participate in new projects, and be a valuable member of the team. I've been studying Python for over two years. At the end of February 2023, he began studying at the Hexlet programming school. The purpose of the training was to structure previously acquired knowledge, acquire new ones and determine the future path of development.
+
+* 🌍  I'm based in Krasnodar
+* ✉️  You can contact me at [vandemar@bk.ru](mailto:vandemar@bk.ru)
+
+### Skills
 
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https: // git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored .svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target ="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://www . postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg " width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/ public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-
-### Портфолио
-![Brain-games](https://github.com/StanislavSol/python-project-49)
-![Difference сalculator](https://github.com/StanislavSol/python-project-50)
-
-### Социальные сети
-
-<p align="left"> </p> <a href="https://www.github.com/StanislavSol" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает цветовую схему: темная)" srcset="https ://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: Light)" srcset="https ://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/ main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-
-### Значки
-
-<b>Моя статистика GitHub</b>
-
-<a href="http://www.github.com/StanislavSol"><img src="https://github-readme-stats.vercel.app/api?username=StanislavSol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Статистика StanislavSol на GitHub" /></a>
