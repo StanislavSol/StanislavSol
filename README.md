@@ -7,6 +7,7 @@ Python - developer
 I'm looking for a job or internship for a Python developer position with a remote work format. I plan to develop in the IT field, participate in new projects, and be a valuable member of the team. I've been studying Python for over two years. At the end of February 2023, he began studying at the Hexlet programming school. The purpose of the training was to structure previously acquired knowledge, acquire new ones and determine the future path of development.
 
 * 🌍  I'm based in Krasnodar
+* 🖥️  See my portfolio at [here](http://https://github.com/StanislavSol?tab=repositories)
 * ✉️  You can contact me at [vandemar@bk.ru](mailto:vandemar@bk.ru)
 
 ### Skills
