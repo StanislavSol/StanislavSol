@@ -9,6 +9,7 @@ I'm looking for a job or internship for a Python developer position with a remot
 * 🌍  I'm based in Krasnodar
 * 🖥️  See my portfolio at [here](http://https://github.com/StanislavSol?tab=repositories)
 * ✉️  You can contact me at [vandemar@bk.ru](mailto:vandemar@bk.ru)
+* [https://t.me/KRD_STANISLAV_SOLOVTSOV](my Telegram)
 
 ### Skills
 
