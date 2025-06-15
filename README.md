@@ -10,6 +10,7 @@ Junior Backend-разработчик с опытом создания fullstack
 
 ## 🛠 Технологии
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-5a45ff?logo=composer&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
