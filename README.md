@@ -33,7 +33,3 @@ Junior Backend-разработчик с опытом создания fullstack
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/SSolovtsov)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:vandemar@bk.ru)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/StanislavSol)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StanislavSol&label=Profile+Views&color=blueviolet" alt="Просмотры профиля" />
-</p>
