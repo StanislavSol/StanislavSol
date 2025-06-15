@@ -1,12 +1,12 @@
 # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> Станислав Соловцов 
-### PHP Backend Developer | Laravel | Docker
+### PHP Backend Developer | Laravel | PostgreSQL
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF71A&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Приветствие" />
 </p>
 
 ## 🚀 Обо мне
-Junior Backend-разработчик с опытом создания fullstack-приложений на PHP. Люблю сложные задачи и чистый код. Работаю с Laravel, Docker, PostgreSQL. В свободное время изучаю алгоритмы и JavaScript.
+Junior Backend-разработчик с опытом создания fullstack-приложений на PHP. На данный момент изучаю алгоритмы и JavaScript. В IT меня привело желание разбираться в сложных вещах. Моя цель - стать отличным Fullstack-разработчиком.
 
 ## 🛠 Технологии
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
