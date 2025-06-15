@@ -1,9 +1,38 @@
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> Станислав Соловцов 
+### PHP Backend Developer | Laravel | Docker
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StanislavSol&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StanislavSol&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSol&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF71A&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Приветствие" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Обо мне
+Junior Backend-разработчик с опытом создания fullstack-приложений на PHP. Люблю сложные задачи и чистый код. Работаю с Laravel, Docker, PostgreSQL. В свободное время изучаю алгоритмы и JavaScript.
+
+## 🛠 Технологии
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+## 🔥 Мои проекты
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [Task Manager](https://github.com/StanislavSol/taskManager) | Система управления задачами с аутентификацией | Laravel, PostgreSQL |
+| [Page Analyzer](https://github.com/StanislavSol/pageAnalyzer) | Парсинг SEO-параметров страниц | Slim, Bootstrap |
+| [Difference Calculator](https://github.com/StanislavSol/differenceCalculator) | Сравнение JSON/YAML файлов | PHP, CLI |
+| [User API](https://github.com/StanislavSol/user-api) | API для управления пользователями | Laravel, JWT |
+
+## 📈 Статистика
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StanislavSol&show_icons=true&theme=radical)](https://github.com/StanislavSol)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSol&layout=compact&theme=radical)](https://github.com/StanislavSol)
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/SSolovtsov)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:vandemar@bk.ru)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/StanislavSol)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StanislavSol&label=Profile+Views&color=blueviolet" alt="Просмотры профиля" />
+</p>
