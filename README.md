@@ -20,7 +20,7 @@ Junior Backend-разработчик с опытом создания fullstack
 ## 🔥 Мои проекты
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [Task Manager](https://github.com/StanislavSol/taskManager) | Система управления задачами с аутентификацией | Laravel, Blade |
+| [Task Manager](https://github.com/StanislavSol/taskManager) | Система управления задачами с аутентификацией | Laravel, Eloquent, Blade |
 | [Page Analyzer](https://github.com/StanislavSol/pageAnalyzer) | Парсинг SEO-параметров страниц | Slim, Bootstrap, PostgreSQL |
 | [Difference Calculator](https://github.com/StanislavSol/differenceCalculator) | Сравнение JSON/YAML файлов | PHP, CLI |
 | [User API](https://github.com/StanislavSol/user-api) | API для управления пользователями | Laravel, JWT |
