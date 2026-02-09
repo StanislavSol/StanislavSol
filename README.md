@@ -26,10 +26,6 @@ Junior Backend-разработчик с опытом создания fullstack
 | [Difference Calculator](https://github.com/StanislavSol/differenceCalculator) | Сравнение JSON/YAML файлов | PHP, CLI |
 | [User API](https://github.com/StanislavSol/user-api) | API для управления пользователями | Laravel, JWT |
 
-## 📈 Статистика
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StanislavSol&show_icons=true&theme=radical)](https://github.com/StanislavSol)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSol&layout=compact&theme=radical)](https://github.com/StanislavSol)
-
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/SSolovtsov)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:vandemar@bk.ru)
