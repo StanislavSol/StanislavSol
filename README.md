@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 Обо мне
-Junior Backend-разработчик с опытом создания fullstack-приложений на PHP. В IT меня привело желание разбираться в сложных вещах. Моя цель - стать отличным Fullstack-разработчиком.
+Backend-разработчик с опытом создания fullstack-приложений на PHP. В IT меня привело желание разбираться в сложных вещах. Моя цель - стать отличным Fullstack-разработчиком.
 
 ## 🛠 Технологии
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -23,8 +23,6 @@ Junior Backend-разработчик с опытом создания fullstack
 | [Task Manager](https://github.com/StanislavSol/taskManager) | Система управления задачами с аутентификацией | Laravel, Eloquent, Blade |
 | [Link Shortener](https://github.com/StanislavSol/linkShortener) | Система для сокращения ссылок с анализом переходов. | Laravel, Eloquent, Blade |
 | [Page Analyzer](https://github.com/StanislavSol/pageAnalyzer) | Парсинг SEO-параметров страниц | Slim, Bootstrap, PostgreSQL |
-| [Difference Calculator](https://github.com/StanislavSol/differenceCalculator) | Сравнение JSON/YAML файлов | PHP, CLI |
-| [User API](https://github.com/StanislavSol/user-api) | API для управления пользователями | Laravel, JWT |
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/SSolovtsov)
