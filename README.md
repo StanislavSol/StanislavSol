@@ -20,7 +20,6 @@ Backend-разработчик с опытом создания fullstack-при
 ## 🔥 Мои проекты
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [Task Manager](https://github.com/StanislavSol/taskManager) | Система управления задачами с аутентификацией | Laravel, Eloquent, Blade |
 | [Link Shortener](https://github.com/StanislavSol/linkShortener) | Система для сокращения ссылок с анализом переходов. | Laravel, Eloquent, Blade |
 | [Page Analyzer](https://github.com/StanislavSol/pageAnalyzer) | Парсинг SEO-параметров страниц | Slim, Bootstrap, PostgreSQL |
 
